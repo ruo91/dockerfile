@@ -1,0 +1,33 @@
+[submodule "hadoop"]
+	path = hadoop
+	url = git://github.com/ruo91/docker-hadoop.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git://github.com/ruo91/docker-elasticsearch.git
+[submodule "arcus"]
+	path = arcus
+	url = git://github.com/ruo91/docker-arcus.git
+[submodule "facebook-mcrouter"]
+	path = facebook-mcrouter
+	url = git://github.com/ruo91/docker-facebook-mcrouter.git
+[submodule "facebook-scribe"]
+	path = facebook-scribe
+	url = git://github.com/ruo91/docker-facebook-scribe.git
+[submodule "openresty"]
+	path = openresty
+	url = git://github.com/ruo91/docker-openresty.git
+[submodule "opsview"]
+	path = opsview
+	url = git://github.com/ruo91/docker-opsview.git
+[submodule "jenkins"]
+	path = jenkins
+	url = git://github.com/ruo91/docker-jenkins.git
+[submodule "facebook-hhvm"]
+	path = facebook-hhvm
+	url = git://github.com/ruo91/docker-facebook-hhvm.git
+[submodule "mariadb"]
+	path = mariadb
+	url = git://github.com/ruo91/docker-mariadb.git
+[submodule "php-fpm"]
+	path = php-fpm
+	url = git://github.com/ruo91/docker-php-fpm.git
