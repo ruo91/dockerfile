@@ -31,3 +31,6 @@
 [submodule "php-fpm"]
 	path = php-fpm
 	url = git://github.com/ruo91/docker-php-fpm.git
+[submodule "crate"]
+	path = crate
+	url = https://github.com/ruo91/docker-crate
