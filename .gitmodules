@@ -34,3 +34,6 @@
 [submodule "crate"]
 	path = crate
 	url = https://github.com/ruo91/docker-crate
+[submodule "redis"]
+	path = redis
+	url = https://github.com/ruo91/docker-redis
