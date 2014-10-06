@@ -37,3 +37,6 @@
 [submodule "redis"]
 	path = redis
 	url = https://github.com/ruo91/docker-redis
+[submodule "twemproxy"]
+	path = twemproxy
+	url = https://github.com/ruo91/docker-twemproxy
