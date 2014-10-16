@@ -37,3 +37,6 @@
 [submodule "twemproxy"]
 	path = twemproxy
 	url = https://github.com/ruo91/docker-twemproxy
+[submodule "opsview"]
+	path = opsview
+	url = https://github.com/ruo91/docker-opsview.git
