@@ -16,9 +16,6 @@
 [submodule "openresty"]
 	path = openresty
 	url = git://github.com/ruo91/docker-openresty.git
-[submodule "opsview"]
-	path = opsview
-	url = git://github.com/ruo91/docker-opsview.git
 [submodule "jenkins"]
 	path = jenkins
 	url = git://github.com/ruo91/docker-jenkins.git
