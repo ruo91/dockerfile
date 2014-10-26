@@ -40,3 +40,6 @@
 [submodule "opsview"]
 	path = opsview
 	url = https://github.com/ruo91/docker-opsview.git
+[submodule "spacewalk"]
+	path = spacewalk
+	url = https://github.com/ruo91/docker-spacewalk
