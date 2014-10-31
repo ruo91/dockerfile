@@ -40,3 +40,9 @@
 [submodule "spacewalk"]
 	path = spacewalk
 	url = https://github.com/ruo91/docker-spacewalk
+[submodule "log.io"]
+	path = log.io
+	url = https://github.com/ruo91/docker-log.io
+[submodule "arcus"]
+	path = arcus
+	url = https://github.com/ruo91/docker-arcus
