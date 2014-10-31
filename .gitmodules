@@ -4,9 +4,6 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
 	url = git://github.com/ruo91/docker-elasticsearch.git
-[submodule "arcus"]
-	path = arcus
-	url = git://github.com/ruo91/docker-arcus.git
 [submodule "facebook-mcrouter"]
 	path = facebook-mcrouter
 	url = git://github.com/ruo91/docker-facebook-mcrouter.git
@@ -43,6 +40,3 @@
 [submodule "spacewalk"]
 	path = spacewalk
 	url = https://github.com/ruo91/docker-spacewalk
-[submodule "log.io"]
-	path = log.io
-	url = https://github.com/ruo91/docker-log.io.git
