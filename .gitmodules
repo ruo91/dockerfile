@@ -46,3 +46,6 @@
 [submodule "arcus"]
 	path = arcus
 	url = https://github.com/ruo91/docker-arcus
+[submodule "heka"]
+	path = heka
+	url = https://github.com/ruo91/docker-heka
