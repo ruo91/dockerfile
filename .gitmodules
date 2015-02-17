@@ -52,3 +52,6 @@
 [submodule "vsftpd"]
 	path = vsftpd
 	url = https://github.com/ruo91/docker-vsftpd
+[submodule "ngrinder"]
+	path = ngrinder
+	url = https://github.com/ruo91/docker-ngrinder
