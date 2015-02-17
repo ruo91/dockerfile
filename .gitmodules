@@ -49,3 +49,6 @@
 [submodule "heka"]
 	path = heka
 	url = https://github.com/ruo91/docker-heka
+[submodule "vsftpd"]
+	path = vsftpd
+	url = https://github.com/ruo91/docker-vsftpd
