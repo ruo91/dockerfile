@@ -55,3 +55,24 @@
 [submodule "ngrinder"]
 	path = ngrinder
 	url = https://github.com/ruo91/docker-ngrinder
+[submodule "kubernetes"]
+	path = kubernetes
+	url = https://github.com/ruo91/docker-kubernetes.git
+[submodule "kubernetes-mesos"]
+	path = kubernetes-mesos
+	url = https://github.com/ruo91/docker-kubernetes-mesos.git
+[submodule "h2o"]
+	path = h2o
+	url = https://github.com/ruo91/docker-h2o.git
+[submodule "kafka"]
+	path = kafka
+	url = https://github.com/ruo91/docker-kafka.git
+[submodule "codis"]
+	path = codis
+	url = https://github.com/ruo91/docker-codis.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/ruo91/docker-nginx.git
+[submodule "dind"]
+	path = dind
+	url = https://github.com/ruo91/dind.git
