@@ -76,3 +76,6 @@
 [submodule "dind"]
 	path = dind
 	url = https://github.com/ruo91/dind.git
+[submodule "haproxy"]
+	path = haproxy
+	url = https://github.com/ruo91/docker-haproxy
