@@ -79,3 +79,6 @@
 [submodule "haproxy"]
 	path = haproxy
 	url = https://github.com/ruo91/docker-haproxy
+[submodule "google-drive"]
+	path = google-drive
+	url = https://github.com/ruo91/docker-google-drive.git
