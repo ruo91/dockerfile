@@ -82,3 +82,6 @@
 [submodule "google-drive"]
 	path = google-drive
 	url = https://github.com/ruo91/docker-google-drive.git
+[submodule "mesos"]
+	path = mesos
+	url = https://github.com/ruo91/docker-mesos.git
