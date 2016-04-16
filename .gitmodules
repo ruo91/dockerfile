@@ -85,3 +85,9 @@
 [submodule "mesos"]
 	path = mesos
 	url = https://github.com/ruo91/docker-mesos.git
+[submodule "nagiosxi"]
+	path = nagiosxi
+	url = https://github.com/ruo91/docker-nagiosxi.git
+[submodule "nagios-agent"]
+	path = nagios-agent
+	url = https://github.com/ruo91/docker-nagios-agent.git
